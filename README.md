@@ -13,7 +13,6 @@ Welcome to the **Animals Jungle Game**, a strategic card game designed for two p
 4. [How to Play](#how-to-play)
 5. [Classes Overview](#classes-overview)
 6. [Project Structure](#project-structure)
-7. [Author](#author)
 
 ---
 
